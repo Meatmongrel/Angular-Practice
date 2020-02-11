@@ -1,0 +1,9 @@
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    background-color: rgb(105, 78, 136);
+    padding: 3vmin;
+    font-size: 6vmin;
+    font-weight: 700;
+    text-shadow: 2px 2px 10px rgb(83, 63, 63);
+}

@@ -9,9 +9,11 @@
 }
 
 .todo {
-    background: #f4f4f4;
+    background-color: rgb(143, 106, 185);
     padding: 10px;
     border-bottom: 1px #ccc dotted;
+    box-shadow: 4px 4px 20px 2px black;
+    
 }
 
 .is-complete {
